@@ -1,0 +1,2 @@
+# talysh
+talysh corpus
