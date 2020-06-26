@@ -1,0 +1,2667 @@
+-lexeme
+ lex: avəvu
+ stem: avəvu.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) молния 2) гром
+
+-lexeme
+ lex: avlod
+ stem: avlod.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) дети, потомство 2) семья
+
+-lexeme
+ lex: ayb
+ stem: ayb.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) стыд, позор 2) вред, ущерб
+
+-lexeme
+ lex: aylə
+ stem: ayl.|aylə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) семья 2) дети, потомство
+
+-lexeme
+ lex: alverəti
+ stem: alverət.|alverəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) торговля 2) спекуляция
+
+-lexeme
+ lex: alverçi
+ stem: alverç.|alverçi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) торговец 2) спекулянт
+
+-lexeme
+ lex: anə
+ stem: an.|anə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) такой, такая, такое 2) 1) так, в такой степени, настолько 2) столько, такое количество
+
+-lexeme
+ lex: anəhoy
+ stem: anəhoy.
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) такой, такая, такое 2) так, столь много, настолько
+
+-lexeme
+ lex: afərin
+ stem: afərin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) браво 2) похвала, хвала
+
+-lexeme
+ lex: bais
+ stem: bais.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) причина 2) вина
+
+-lexeme
+ lex: bala
+ stem: bal.|bala.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) дитя, ребенок, малютка, младенец, малыш 2) детеныш 3) птенец
+
+-lexeme
+ lex: band
+ stem: band.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) связь, связанность 2) завязка 3) связка, узел 4) повязка 5) ( банд) плотина
+
+-lexeme
+ lex: barz
+ stem: barz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) высокий, рослый 2) громкий
+
+-lexeme
+ lex: baş
+ stem: baş.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) глава, главенствующий 2) верхушка, вершина
+
+-lexeme
+ lex: beorom
+ stem: beorom.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) беспокойный, неспокойный 2) беспокойно, неспокойно
+
+-lexeme
+ lex: betam
+ stem: betam.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) безвкусный, невкусный, не ощущающий вкуса 2) невкусно
+
+-lexeme
+ lex: bexəbə
+ stem: bexəb.|bexəbə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) неосведомленный 2) вдруг, внезапно, неожиданно, без предупреждения
+
+-lexeme
+ lex: bəgəm
+ stem: bəgəm.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) разве, неужели 2) частица усил. и вопр. же, ли
+
+-lexeme
+ lex: bələxə
+ stem: bələx.|bələxə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) рассеянный 2) неряха
+
+-lexeme
+ lex: bəng
+ stem: bəng.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) белена 2) наркотик из белены
+
+-lexeme
+ lex: bəpe
+ stem: bəpe
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) вверх 2) вперед ( приглашение пройти в дом, в комнату)
+
+-lexeme
+ lex: bərə
+ stem: bər.|bərə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) лаз, ход ( в зарослях) 2) дверь
+
+-lexeme
+ lex: bərəkət
+ stem: bərəkət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) обилие, достаток 2) благословение
+
+-lexeme
+ lex: bərk
+ stem: bərk.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) крепкий, сильный, громкий 2) крепко, сильно, очень
+
+-lexeme
+ lex: bərkədə
+ stem: bərkədə
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) крепко, сильно 2) громко
+
+-lexeme
+ lex: bərobər
+ stem: bərobər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) равный 2) равно, наравне, одинаково
+
+-lexeme
+ lex: bəhrin
+ stem: bəhrin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) плодоносный 2) полезный, приносящий пользу
+
+-lexeme
+ lex: bəhs
+ stem: bəhs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) спор 2) соревнование
+
+-lexeme
+ lex: biz
+ stem: biz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) шило 2) стрекало ( палка с железным наконечником, которой погоняют скот)
+
+-lexeme
+ lex: bino
+ stem: bin.|bino.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) основа, основание 2) здание
+
+-lexeme
+ lex: bisoyb
+ stem: bisoyb.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бродяга, бобыль 2) бесхозный ( о вещах)
+
+-lexeme
+ lex: bıjən-bigi
+ stem: bıjən-big.|bıjən-bigi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) крик, шум 2) раздор, ссора
+
+-lexeme
+ lex: bılang
+ stem: bılang.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рука ( от плеча до кисти) 2) вилы
+
+-lexeme
+ lex: bın
+ stem: bın.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) дно 2) под, под низ
+
+-lexeme
+ lex: bır
+ stem: bır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ветвь, ветка ( куста) 2) колючка, шип
+
+-lexeme
+ lex: bıştə
+ stem: bışt.|bıştə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) каленый 2) жареное зерно
+
+-lexeme
+ lex: boə
+ stem: bo.|boə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) виноградное сусло 2) бекмес, уваренный фруктовый сок
+
+-lexeme
+ lex: boyli
+ stem: boyl.|boyli.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) братик, братец 2) любимый, милый
+
+-lexeme
+ lex: bukə
+ stem: buk.|bukə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) нижняя часть лица ( нос, рот и подбородок) 2) морда
+
+-lexeme
+ lex: ve
+ stem: ve
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) много, очень 2) многий
+
+-lexeme
+ lex: vəziyət
+ stem: vəziyət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) положение дел 2) обстоятельства
+
+-lexeme
+ lex: vəzifə
+ stem: vəzif.|vəzifə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) обязанность, долг 2) должность
+
+-lexeme
+ lex: vənton
+ stem: vənton.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) перед, передняя сторона, внешняя сторона 2) впереди, спереди
+
+-lexeme
+ lex: vəs
+ stem: vəs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) достаточный 2) достаточно, довольно
+
+-lexeme
+ lex: vəhşi
+ stem: vəhş.|vəhşi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) дикий, необузданный 2) дикарь
+
+-lexeme
+ lex: vəçə
+ stem: vəç.|vəçə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) барашек, ягненок 2) у козленок
+
+-lexeme
+ lex: vızzə
+ stem: vızz.|vızzə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) жужжание ( пчелы) 2) завывание ( ветра)
+
+-lexeme
+ lex: vo
+ stem: v.|vo.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) ветер 2) ломота, прострел разг. 3) вздутие ( живота)
+
+-lexeme
+ lex: gam
+ stem: gam.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) теплый, горячий 2) тепло, горячо
+
+-lexeme
+ lex: gangal
+ stem: gangal.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ракушка, раковина 2) улитка 3) бот. чертополох
+
+-lexeme
+ lex: gardən
+ stem: gardən.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) туловище, тело 2) статность, стройность
+
+-lexeme
+ lex: gəv
+ stem: gəv.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рот 2) отверстие 3) край, кромка 4) лезвие напр. ножа) 5) крышка
+
+-lexeme
+ lex: gədə
+ stem: gəd.|gədə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) внутренности 2) живот
+
+-lexeme
+ lex: gədəglə
+ stem: gədəgl.|gədəglə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) маленький 2) маленькая вещь, крошка, частичка
+
+-lexeme
+ lex: gəl
+ stem: gəl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пах 2) шаг
+
+-lexeme
+ lex: gij
+ stem: gij.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) испытывающий головокружение 2) перен. сбитый с толку, растерянный
+
+-lexeme
+ lex: git
+ stem: git.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пара, пахота 2) парный
+
+-lexeme
+ lex: gırd
+ stem: gırd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) все, целиком, полностью 2) круглый
+
+-lexeme
+ lex: gıtı
+ stem: gıt.|gıtı.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) бутон, нераспустившийся цветок 2) почка
+
+-lexeme
+ lex: gol
+ stem: gol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) заболоченное озеро 2) пруд
+
+-lexeme
+ lex: gon
+ stem: gon.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тяжелый 2) серьезный
+
+-lexeme
+ lex: gujdəkuy
+ stem: gujdəkuy.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) отбивание мяса ( для жаркого) 2) нож для отбивания мяса
+
+-lexeme
+ lex: gul
+ stem: gul.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) волчок 2) игра в волчок
+
+-lexeme
+ lex: gur-gur
+ stem: gur-gur.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) гром 2) громыханье, тарахтение
+
+-lexeme
+ lex: ğanun
+ stem: ğanun.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) закон 2) правило
+
+-lexeme
+ lex: ğələm
+ stem: ğələm.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) карандаш 2) черенок сад.
+
+-lexeme
+ lex: ğəribə
+ stem: ğərib.|ğəribə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) иностранец, иностранный, чужой 2) странный
+
+-lexeme
+ lex: ğızıl
+ stem: ğızıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) золото 2) красный
+
+-lexeme
+ lex: ğızmə
+ stem: ğızm.|ğızmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) жар, высокая температура 2) малярия
+
+-lexeme
+ lex: ğısm
+ stem: ğısm.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) часть, доля 2) вид, род
+
+-lexeme
+ lex: ğısmət
+ stem: ğısmət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) доля, часть 2) доля, участь, судьба
+
+-lexeme
+ lex: ğısos
+ stem: ğısos.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) месть, возмездие 2) наказание
+
+-lexeme
+ lex: ğıç
+ stem: ğıç.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) укус 2) кусок
+
+-lexeme
+ lex: ğoym
+ stem: ğoym.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) крепкий, сильный, громкий 2) крепко, сильно
+
+-lexeme
+ lex: ğoym-ğoymi
+ stem: ğoym-ğoymi
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) сильно-пресильно 2) громко-прегромко
+
+-lexeme
+ lex: ğorə
+ stem: ğor.|ğorə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) виноградный сок 2) виноградный уксус
+
+-lexeme
+ lex: dave
+ stem: dav.|dave.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) война, бой, сражение 2) драка, ссора
+
+-lexeme
+ lex: dang
+ stem: dang.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) одурелый, одуревший 2) сумасшедший, безумный
+
+-lexeme
+ lex: dandonə
+ stem: dandon.|dandonə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) зубец 2) спица ( колеса)
+
+-lexeme
+ lex: daspardə
+ stem: daspard.|daspardə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) задание, поручение 2) упражнение
+
+-lexeme
+ lex: dədəlıg
+ stem: dədəlıg.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) отчим 2) отцовство
+
+-lexeme
+ lex: di
+ stem: d.|di.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) поздний 2) поздно
+
+-lexeme
+ lex: diəməkəmon
+ stem: diəməkəmon
+ gram: ADP
+ paradigm: ADP
+ trans_ru: 1) несмотря на, невзирая на 2) хотя
+
+-lexeme
+ lex: dik
+ stem: dik
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) прямо, вертикально 2) прямо, в прямом направлении 3) в упор, пристально
+
+-lexeme
+ lex: dim
+ stem: dim.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) лицо 2) лицо, лицевая сторона 3) поверхность 4) копия
+
+-lexeme
+ lex: dimin
+ stem: dimin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) жирный, неснятой, цельный ( о молоке) 2) перен. упрямый, своевольный
+
+-lexeme
+ lex: dıləton
+ stem: dıləton.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) внутренняя сторона 2) внутренний
+
+-lexeme
+ lex: dıtərəfə
+ stem: dıtərəf.|dıtərəfə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) сквозной 2) насквозь
+
+-lexeme
+ lex: dod
+ stem: dod.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) крик, призыв на помощь 2) зов, призыв додо 1) старшая сестра 2) обращ. к матери
+
+-lexeme
+ lex: doj
+ stem: doj.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) родовые схватки, роды 2) боль 3) прострел
+
+-lexeme
+ lex: dom
+ stem: dom.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) сеть, сетка 2) силок, ловушка 3) паутина
+
+-lexeme
+ lex: donə
+ stem: don.|donə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) семя 2) семечки ( подсолнечника), дон 3) зерно 4) косточка ( плодовая) дон
+
+-lexeme
+ lex: du
+ stem: du.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пахта, пахтанье, молочная сыворотка 2) кислое молоко, разведенное водой
+
+-lexeme
+ lex: duz
+ stem: duz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) прямой, правильный, ровный 2) прямо, справедливо, верно
+
+-lexeme
+ lex: duzgun
+ stem: duzgun.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) правильный, добропорядочный 2) правильно, точно, верно
+
+-lexeme
+ lex: eşşək
+ stem: eşşək.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ишак, осел 2) козлы
+
+-lexeme
+ lex: əbosi
+ stem: əbos.|əbosi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) двадцатикопеечная монета 2) мелочь, мелкие монеты
+
+-lexeme
+ lex: əvvəl
+ stem: əvvəl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) начало 2) первый
+
+-lexeme
+ lex: əvec
+ stem: əvec.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) вещь, принадлежность 2) инструмент
+
+-lexeme
+ lex: əvom
+ stem: əvom.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) невежа 2) суеверный
+
+-lexeme
+ lex: əvoməti
+ stem: əvomət.|əvoməti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) наивность, легковерие 2) суеверие, предрассудок
+
+-lexeme
+ lex: əvrə
+ stem: əvrə
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) там 2) туда
+
+-lexeme
+ lex: əgmə
+ stem: əgm.|əgmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) обод колеса 2) колено водосточной трубы
+
+-lexeme
+ lex: əğın
+ stem: əğın
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) там, там далеко ( указ. на дальность) 2) туда
+
+-lexeme
+ lex: ədəbiyət
+ stem: ədəbiyət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) литература 2) литературный
+
+-lexeme
+ lex: əmlok
+ stem: əmlok.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) земельное владение 2) собственность, имущество
+
+-lexeme
+ lex: ərbob
+ stem: ərbob.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) купец, коммерсант, торговец 2) богатый, богач
+
+-lexeme
+ lex: ərəb
+ stem: ərəb.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) араб 2) арабский
+
+-lexeme
+ lex: ərəbi
+ stem: ərəb.|ərəbi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) арабский язык 2) по-арабски
+
+-lexeme
+ lex: ərz
+ stem: ərz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) заявление 2) жалоба 3) просьба
+
+-lexeme
+ lex: əsər
+ stem: əsər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) влияние, воздействие 2) произведение, сочинение
+
+-lexeme
+ lex: əskər
+ stem: əskər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) воин, солдат 2) армия
+
+-lexeme
+ lex: əsl
+ stem: əsl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) суть, сущность 2) настоящий, подлинный
+
+-lexeme
+ lex: əhvolot
+ stem: əhvolot.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) происшествие, событие 2) содержание
+
+-lexeme
+ lex: əhd
+ stem: əhd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) обещание 2) договор
+
+-lexeme
+ lex: əcəb
+ stem: əcəb.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) удивительный, поразительный 2) чудесный, изумительный 3) правильный, верный
+
+-lexeme
+ lex: zəmin
+ stem: zəmin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) земля, почва 2) страна
+
+-lexeme
+ lex: zərbəyn
+ stem: zərbəyn.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ударник 2) ударный ( о труде)
+
+-lexeme
+ lex: zəhmət
+ stem: zəhmət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) труд 2) затруднение, трудность
+
+-lexeme
+ lex: zişangonə
+ stem: zişangon.|zişangonə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) вчерашний вечер 2) вчера вечером зывон 1) анат. язык 2) язык, речь
+
+-lexeme
+ lex: zıl
+ stem: zıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) птичий помет 2) гной ( в уголках глаз)
+
+-lexeme
+ lex: zomin
+ stem: zomin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) поручитель 2) порука, ручательство
+
+-lexeme
+ lex: ingilis
+ stem: ingilis.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) англич 2) английский
+
+-lexeme
+ lex: ingilisi
+ stem: ingilis.|ingilisi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) английский язык 2) по-английски
+
+-lexeme
+ lex: ittıfoğ
+ stem: ittıfoğ.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) союз 2) случай
+
+-lexeme
+ lex: ıştənbəsə
+ stem: ıştənbəs.|ıştənbəsə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) сам 2) самовольно
+
+-lexeme
+ lex: yava
+ stem: yav.|yava.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) плохой 2) плохо
+
+-lexeme
+ lex: yəhudi
+ stem: yəhud.|yəhudi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) еврей 2) еврейский
+
+-lexeme
+ lex: yol
+ stem: yol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) большой, крупный 2) взрослый, старший по возрасту 3) старший по положению
+
+-lexeme
+ lex: yun
+ stem: yun.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) шерсть 2) шерстяной
+
+-lexeme
+ lex: kanə
+ stem: kan.|kanə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) старый, ветхий ( о предметах, вещах) 2) ветошь, тряпка
+
+-lexeme
+ lex: kapitalist
+ stem: kapitalist.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) капиталист 2) капиталистический
+
+-lexeme
+ lex: karməyn
+ stem: karməyn.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) грязный, замызганный 2) заплесневелый
+
+-lexeme
+ lex: keyfiyət
+ stem: keyfiyət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) положение дел 2) качество
+
+-lexeme
+ lex: kə
+ stem: k.|kə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) дом 2) комната
+
+-lexeme
+ lex: kəyguzaran
+ stem: kəyguzaran.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ведение домашнего хозяйства 2) домашнее хозяйство
+
+-lexeme
+ lex: kəpot
+ stem: kəpot.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) платье 2) юбка
+
+-lexeme
+ lex: kəs
+ stem: kəs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) человек 2) нумератив при счете людей
+
+-lexeme
+ lex: kəc
+ stem: kəc.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) кривой, искривленный 2) перен. упрямый, строптивый, любящий противоречить, спорить
+
+-lexeme
+ lex: kəş
+ stem: kəş.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) крыло 2) рука ( от плеча до кисти) 3) рукав 4) деревянная деталь в упряжи буйвола
+
+-lexeme
+ lex: kilit
+ stem: kilit.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ключ 2) замок
+
+-lexeme
+ lex: kinəti
+ stem: kinət.|kinəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) девичьи годы 2) удочерение
+
+-lexeme
+ lex: kıl
+ stem: kıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тупой, затупившийся 2) оскомина
+
+-lexeme
+ lex: kındə
+ stem: kınd.|kındə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) пень 2) чурка, чурбан
+
+-lexeme
+ lex: kındılə
+ stem: kındıl.|kındılə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) пенек 2) чурка
+
+-lexeme
+ lex: kırç
+ stem: kırç.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пересушенный, пережаренный ( о еде) 2) крепкий, жесткий
+
+-lexeme
+ lex: kırçənə
+ stem: kırçən.|kırçənə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) корка, корочка 2) корка хлеба
+
+-lexeme
+ lex: kıflət
+ stem: kıflət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) жена 2) семья
+
+-lexeme
+ lex: klıç
+ stem: klıç.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) меч 2) бердо, палочка, которой в ткацком станке забивают уток
+
+-lexeme
+ lex: kobə
+ stem: kob.|kobə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) шов 2) клин ( юбки, платья)
+
+-lexeme
+ lex: kogəz
+ stem: kogəz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бумага 2) письмо
+
+-lexeme
+ lex: kol
+ stem: kol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) незрелый, недозрелый 2) сырой 3) невспаханный, целинный ( о земле)
+
+-lexeme
+ lex: kolkoli
+ stem: kolkol.|kolkoli.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) сырой 2) сырьем, в сыром виде
+
+-lexeme
+ lex: kommunist
+ stem: kommunist.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) коммунист 2) коммунистический
+
+-lexeme
+ lex: konə
+ stem: kon.|konə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) глазница, глазная впадина 2) лунка, впадина ( в земле)
+
+-lexeme
+ lex: konnik
+ stem: konnik.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пастух 2) конюх
+
+-lexeme
+ lex: kosib
+ stem: kosib.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бедняк 2) трудящийся
+
+-lexeme
+ lex: kulə
+ stem: kul.|kulə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) потолочная балка 2) потолок
+
+-lexeme
+ lex: kulos
+ stem: kulos.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) лодка-долбленка 2) корыто для поения скота
+
+-lexeme
+ lex: kumə
+ stem: kum.|kumə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) избушка, маленький домик 2) сарай, амбар
+
+-lexeme
+ lex: kun
+ stem: kun.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) зад 2) оборотная сторона, изнанка
+
+-lexeme
+ lex: kurd
+ stem: kurd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) курд 2) курдский
+
+-lexeme
+ lex: kurdi
+ stem: kurd.|kurdi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) курдский язык 2) по-курдски
+
+-lexeme
+ lex: kuçəkə
+ stem: kuçək.|kuçəkə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) переселенец 2) кочующий
+
+-lexeme
+ lex: latə
+ stem: lat.|latə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 2) ряд ( при косьбе) 3) клин ( в платье)
+
+-lexeme
+ lex: laşkin
+ stem: laşkin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) дряблый, вислый, оовислый 2) постный ( о мясе)
+
+-lexeme
+ lex: leğjor
+ stem: leğjor.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) заросли осоки ( камыша) 2) болото
+
+-lexeme
+ lex: lef
+ stem: lef.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) стеганое одеяло ( с прокладкой из шерсти) 2) постель
+
+-lexeme
+ lex: ləs
+ stem: ləs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) слабый, вялый 2) слабо, вяло
+
+-lexeme
+ lex: lıngəro
+ stem: lıngər.|lıngəro.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) тропинка 2) уборная
+
+-lexeme
+ lex: lonə
+ stem: lon.|lonə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) нора 2) гнездо
+
+-lexeme
+ lex: losə
+ stem: los.|losə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) шелковичный кокон с мертвым червяком 2) шелковые очески
+
+-lexeme
+ lex: lu
+ stem: lu.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) кора 2) кожура, кожица 3) корка 4) волокно
+
+-lexeme
+ lex: lulə
+ stem: lul.|lulə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) труба, трубка 2) зурна
+
+-lexeme
+ lex: lumə
+ stem: lum.|lumə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) короткий ( о хвосте) 2) короткохвостый
+
+-lexeme
+ lex: mang
+ stem: mang.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) месяц ( часть года) 2) месяц, луна
+
+-lexeme
+ lex: marz
+ stem: marz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) валик ( отгораживающий друг от друга чеки рисового поля) 2) межа
+
+-lexeme
+ lex: merd
+ stem: merd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мужчина 2) муж
+
+-lexeme
+ lex: mərfəş
+ stem: mərfəş.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) чехол, мешок ( для складывания постели) 2) сложенная в тюк постель
+
+-lexeme
+ lex: məsələ
+ stem: məsəl.|məsələ.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) задача 2) вопрос, обстоятельство 3) проблема, задача
+
+-lexeme
+ lex: mətləb
+ stem: mətləb.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тема 2) намерение, цель
+
+-lexeme
+ lex: məhsul
+ stem: məhsul.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) результат 2) продукция 3) урожай
+
+-lexeme
+ lex: millət
+ stem: millət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) нация 2) национальность
+
+-lexeme
+ lex: minbər
+ stem: minbər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) минбар ( кафедра проповедника в мечети). 2) кафедра
+
+-lexeme
+ lex: misl
+ stem: misl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) сравнение, уподобление 2) подобно
+
+-lexeme
+ lex: mıkofot
+ stem: mıkofot.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) награда 2) возмездие
+
+-lexeme
+ lex: mımkin
+ stem: mımkin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) возможный 2) возможно
+
+-lexeme
+ lex: mışt
+ stem: mışt.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) кулак 2) горсть
+
+-lexeme
+ lex: moyə
+ stem: moy.|moyə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) сыворотка, закваска ( для сыра, простокваши) 2) физиол. сперма 3) сердцевина дерева
+
+-lexeme
+ lex: mol
+ stem: mol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) скот ( крупный рогатый), скотина 2) вол, корова 3) имущество 4) ткань, материя
+
+-lexeme
+ lex: moləvon
+ stem: moləvon.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) скотовладелец 2) пастух ( крупного рогатого скота)
+
+-lexeme
+ lex: muvocib
+ stem: muvocib.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) заработная плата, зарплата 2) вознаграждение
+
+-lexeme
+ lex: mutə
+ stem: mut.|mutə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) щепоть, щепотка 2) искра
+
+-lexeme
+ lex: navniməyji
+ stem: navniməyj.|navniməyji.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) утро ( до полудня) 2) утром
+
+-lexeme
+ lex: navçoştə
+ stem: navçoşt.|navçoştə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) утро ( до полудня) 2) утром
+
+-lexeme
+ lex: nağdınə
+ stem: nağdın.|nağdınə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) наличный ( о деньгах) 2) за наличные
+
+-lexeme
+ lex: nadəki
+ stem: nadək.|nadəki.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) передний, находящийся впереди, стоящий впереди 2) впереди, спереди
+
+-lexeme
+ lex: nam
+ stem: nam.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мягкий 2) тихий
+
+-lexeme
+ lex: nami-nami
+ stem: nami-nami
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) мягко 2) нежно
+
+-lexeme
+ lex: nangır
+ stem: nangır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ноготь 2) коготь 3) копыто 4) скобка ( знак пре пин
+
+-lexeme
+ lex: nat
+ stem: nat.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бензин 2) керосин 3) нефть
+
+-lexeme
+ lex: nemesi
+ stem: nemes.|nemesi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) немецкий язык 2) по-немецки
+
+-lexeme
+ lex: neçi
+ stem: neç.|neçi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) волк 2) крупный хищный зверь, хищник 3) охота
+
+-lexeme
+ lex: nənəlığ
+ stem: nənəlığ.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мачеха 2) материнство
+
+-lexeme
+ lex: nəfər
+ stem: nəfər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) человек, лицо, персона 2) нумератив при счете людей
+
+-lexeme
+ lex: nəho
+ stem: nəh.|nəho.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) обед 2) полдень
+
+-lexeme
+ lex: nəşə
+ stem: nəş.|nəşə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) опиум 2) опьянение после курения опиума
+
+-lexeme
+ lex: nəşriyat
+ stem: nəşriyat.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) издательство 2) издания
+
+-lexeme
+ lex: niməyjə
+ stem: niməyj.|niməyjə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) полдень 2) обед
+
+-lexeme
+ lex: nimçə
+ stem: nimç.|nimçə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) тарелка 2) чашка
+
+-lexeme
+ lex: nığıl
+ stem: nığıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) глубокий 2) глубоко
+
+-lexeme
+ lex: nışte-pebe
+ stem: nışte-peb.|nışte-pebe.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) умение держаться, манеры, поведение 2) способность к движению
+
+-lexeme
+ lex: nozık
+ stem: nozık.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) изящный 2) тонкий 3) тонкий, высокий 4) деликатный, чуткий
+
+-lexeme
+ lex: nozıkəti
+ stem: nozıkət.|nozıkəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) изящество 2) тонкость 3) деликатность, чуткость
+
+-lexeme
+ lex: noməlum
+ stem: noməlum.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) неизвестный 2) неизвестно, неясно
+
+-lexeme
+ lex: norozi
+ stem: noroz.|norozi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) несогласный 2) неудовлетворительный
+
+-lexeme
+ lex: noroziyəti
+ stem: noroziyət.|noroziyəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) несогласие, недовольство 2) неудовлетворенность
+
+-lexeme
+ lex: nohəх
+ stem: nohəх.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бесполезный, напрасный 2) бесполезно, напрасно, зря
+
+-lexeme
+ lex: noçor
+ stem: noçor.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) беспомощный 2) вынужденный
+
+-lexeme
+ lex: nun
+ stem: nun.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) хлеб 2) еда
+
+-lexeme
+ lex: obə
+ stem: ob.|obə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) район 2) поселение
+
+-lexeme
+ lex: obod
+ stem: obod.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) благоустроенный 2) возделанный, обработанный, цветущий
+
+-lexeme
+ lex: ov
+ stem: ov.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) вода 2) сок ( фруктов, овоией и я.) 3) бульон 4) слюна 5) пот
+
+-lexeme
+ lex: ovdəbase
+ stem: ovdəbas.|ovdəbase.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) полив рисового поля 2) время полива рисового поля
+
+-lexeme
+ lex: ovin
+ stem: ovin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мокрый, сырой 2) жидкий, водянистый
+
+-lexeme
+ lex: oğandə
+ stem: oğand.|oğandə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) выставленный на базаре товар 2) выставка
+
+-lexeme
+ lex: oyn
+ stem: oyn.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) забава 2) расправа
+
+-lexeme
+ lex: opot
+ stem: opot.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) корчевка, выкорчевывание 2) пень
+
+-lexeme
+ lex: otəş
+ stem: otəş.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) огонь 2) выстрел
+
+-lexeme
+ lex: oх
+ stem: oх.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ось 2) стрела
+
+-lexeme
+ lex: oхo1
+ stem: oхo1.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) конец 2) наконец
+
+-lexeme
+ lex: papu
+ stem: papu.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) кукушка 2) кукование
+
+-lexeme
+ lex: pardis
+ stem: pardis.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) веревка ( из рисовой соломы, камыша и п.) 2) основа циновки
+
+-lexeme
+ lex: pedır
+ stem: pedır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) цара пин 2) прорванное место, дыра
+
+-lexeme
+ lex: pemərəs
+ stem: pemərəs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) незрелый 2) недоросль
+
+-lexeme
+ lex: peşnəni
+ stem: peşnən.|peşnəni.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) задний 2) последующий
+
+-lexeme
+ lex: pəvəndi
+ stem: pəvənd.|pəvəndi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) невеста 2) жених
+
+-lexeme
+ lex: pələmə
+ stem: pələm.|pələmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) лоток ( для сушки фруктов) 2) базарный лоток
+
+-lexeme
+ lex: pərəliç
+ stem: pərəliç.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) паралич 2) парализованный
+
+-lexeme
+ lex: pəşimonəti
+ stem: pəşimonət.|pəşimonəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) раскаяние 2) смущение
+
+-lexeme
+ lex: pilə
+ stem: pil.|pilə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) веко 2) припухлость ( под глазами и вокруг глаз)
+
+-lexeme
+ lex: pin
+ stem: pin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рисовая пыль 2) опилки
+
+-lexeme
+ lex: pıəlıg
+ stem: pıəlıg.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) отчим 2) отцовство
+
+-lexeme
+ lex: pıştə
+ stem: pışt.|pıştə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) глиняная стена дома, обшитая досками с обеих сторон 2) глиняный, глинобитный
+
+-lexeme
+ lex: po
+ stem: p.|po.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) нога 2) нумератив при счете обуви
+
+-lexeme
+ lex: poəkay
+ stem: poəkay.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) помолвка, угощение по случаю помолвки ( как в доме невесты, так и в доче жениха 2) одаривание невесты по случаю помолвки
+
+-lexeme
+ lex: poçə
+ stem: poç.|poçə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) нога 2) шт 3) подол
+
+-lexeme
+ lex: puş
+ stem: puş.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) шелуха ( колосьев, семечек) 2) огрызок 3) сор, мусор
+
+-lexeme
+ lex: randə
+ stem: rand.|randə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) грабли 2) рубанок
+
+-lexeme
+ lex: rezin
+ stem: rezin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) резина 2) резиновый
+
+-lexeme
+ lex: rə-rəy
+ stem: rə-rəy
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) быстро, скоро 2) часто
+
+-lexeme
+ lex: ro
+ stem: r.|ro.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) дорога, путь 2) способ, путь, средство
+
+-lexeme
+ lex: rohət
+ stem: rohət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) спокойный, тихий 2) спокойно
+
+-lexeme
+ lex: savet
+ stem: savet.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) совет ( орган власти) 2) советский
+
+-lexeme
+ lex: sard
+ stem: sard.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) холод 2) холодный
+
+-lexeme
+ lex: saru
+ stem: saru
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) вниз, под гору 2) назад
+
+-lexeme
+ lex: səvod
+ stem: səvod.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) грамота, грамотность 2) грамотный с
+
+-lexeme
+ lex: səmə
+ stem: səm.|səmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) одурелый 2) легкомысленный
+
+-lexeme
+ lex: səngonə
+ stem: səngon.|səngonə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) камень ( специального назначения, напр. для очистки риса на рисорушке) 2) перен. подушка
+
+-lexeme
+ lex: səros
+ stem: səros.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) прямой, ровный 2) прямо, точно
+
+-lexeme
+ lex: sərsəri
+ stem: sərsər.|sərsəri.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) менингит 2) больной менингитом 3) бред
+
+-lexeme
+ lex: simişkə
+ stem: simişk.|simişkə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) подсолнух 2) семечки
+
+-lexeme
+ lex: sıkılə
+ stem: sıkıl.|sıkılə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) колючка, шип 2) жнивье
+
+-lexeme
+ lex: sıparz
+ stem: sıparz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) двенадцатиперстная кишка 2) селезенка
+
+-lexeme
+ lex: sıraf
+ stem: sıraf.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) толстый, полный 2) тупой, затупившийся
+
+-lexeme
+ lex: sırd
+ stem: sırd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) вид лестницы-стремянки 2) решетчатые высокие бока повозки
+
+-lexeme
+ lex: sırə
+ stem: sır.|sırə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) улыбка 2) улыбающийся
+
+-lexeme
+ lex: sıftə
+ stem: sıft.|sıftə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) первый, начальный 2) сперва, сначала, в первый раз
+
+-lexeme
+ lex: soz
+ stem: soz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) налаженный, устроенный, упорядоченный 2) уравновешенный
+
+-lexeme
+ lex: sol
+ stem: sol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) плотва 2) малек
+
+-lexeme
+ lex: sof
+ stem: sof.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) крепкий, здоровый 2) совсем, очень
+
+-lexeme
+ lex: suko
+ stem: suk.|suko.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) дикий селезень 2) дикий петух
+
+-lexeme
+ lex: sutemon
+ stem: sutemon.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) горение 2) горючее
+
+-lexeme
+ lex: tat
+ stem: tat.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тат 2) татский
+
+-lexeme
+ lex: tatar
+ stem: tatar.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) татарин 2) татарский
+
+-lexeme
+ lex: tatari
+ stem: tatar.|tatari.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) татарский язык 2) по-татарски
+
+-lexeme
+ lex: tati
+ stem: tat.|tati.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) татский язык 2) по-татски
+
+-lexeme
+ lex: ter
+ stem: ter.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) нитка, нить 2) бечевка, веревка
+
+-lexeme
+ lex: təy
+ stem: təy.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) пустой, порожний 2) пустой ( о еде) 3) чистый, беспримесный
+
+-lexeme
+ lex: təmiz
+ stem: təmiz.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) чистый 2) чисто
+
+-lexeme
+ lex: təmom
+ stem: təmom.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) конец 2) весь, целиком
+
+-lexeme
+ lex: tənık
+ stem: tənık.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тонкий 2) прозрачный, легкий ( о паре, дыме)
+
+-lexeme
+ lex: tənısk
+ stem: tənısk.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мель 2) мелкий
+
+-lexeme
+ lex: tərəddud
+ stem: tərəddud.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) суета 2) сомнение, колебание
+
+-lexeme
+ lex: tərəf
+ stem: tərəf.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) сторона, направление 2) край
+
+-lexeme
+ lex: tərs
+ stem: tərs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) оборотный 2) непослушный, упрямый
+
+-lexeme
+ lex: tərtib
+ stem: tərtib.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) порядок, устройство 2) составление
+
+-lexeme
+ lex: tikəvınəy
+ stem: tikəvınəy.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) частичка, кусочек, крошечка 2) немного, чуточку, чуть-чуть
+
+-lexeme
+ lex: tınd
+ stem: tınd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) кислый, острый 2) прогорклый 3) быстрый, большой ( о скорости) 4) крепкий, сильнодействующий 5) темный 6) вспыльчивый
+
+-lexeme
+ lex: tırk
+ stem: tırk.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 2) азербайджанский, турецкий
+
+-lexeme
+ lex: tırki
+ stem: tırk.|tırki.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) азербайджанский язык, турецкий язык 2) по-азербайджански, по-турецки
+
+-lexeme
+ lex: tov
+ stem: tov.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) верчение, кручение 2) скорость, ускорение
+
+-lexeme
+ lex: togə
+ stem: tog.|togə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) молодое дерево, саженец 2) ветка, побег ( дерева)
+
+-lexeme
+ lex: tojə
+ stem: toj.|tojə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) новый, свежий 2) недавно, только что
+
+-lexeme
+ lex: tolış
+ stem: tolış.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) талыш 2) талышский
+
+-lexeme
+ lex: tolışi
+ stem: tolış.|tolışi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) талышский язык 2) по-талышски
+
+-lexeme
+ lex: tor
+ stem: tor.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) сеть, невод 2) кружево
+
+-lexeme
+ lex: tu
+ stem: tu.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) плевок 2) сливки, пенка
+
+-lexeme
+ lex: tul
+ stem: tul.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) глина 2) грязь, размякшая почва
+
+-lexeme
+ lex: tum
+ stem: tum.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) семя 2) семена 3) рассада ( гл. обр. рисовая) 4) род, племя
+
+-lexeme
+ lex: umumi
+ stem: umum.|umumi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) общий 2) весь, целиком
+
+-lexeme
+ lex: ur
+ stem: ur.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) зоб 2) горб
+
+-lexeme
+ lex: fəğır
+ stem: fəğır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бедный 2) кроткий
+
+-lexeme
+ lex: fəğırəti
+ stem: fəğırət.|fəğırəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) бедность 2) кротость 3) жалость, сострадание
+
+-lexeme
+ lex: fər
+ stem: fər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) отличный 2) отлично
+
+-lexeme
+ lex: fik
+ stem: fik.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мысль 2) забота 3) уход
+
+-lexeme
+ lex: fırəngi
+ stem: fırəng.|fırəngi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) француз 2) французский
+
+-lexeme
+ lex: fıştırığ
+ stem: fıştırığ.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) свист 2) свисток
+
+-lexeme
+ lex: formə
+ stem: form.|formə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) образ, вид 2) фасон
+
+-lexeme
+ lex: хarici
+ stem: хaric.|хarici.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) иностранный, зарубежный 2) иностранец
+
+-lexeme
+ lex: xəbə
+ stem: xəb.|xəbə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) весть, известие, новость, сообщение 2) донос
+
+-lexeme
+ lex: xəbərçi
+ stem: xəbərç.|xəbərçi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) вестник 2) доносчик
+
+-lexeme
+ lex: xəziri
+ stem: xəzir.|xəziri.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) север 2) северный ветер
+
+-lexeme
+ lex: хələt
+ stem: хələt.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) халат 2) подарок ( в виде одежды или материи)
+
+-lexeme
+ lex: хıdmət
+ stem: хıdmət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) служба 2) услуга
+
+-lexeme
+ lex: хıdmətəkə
+ stem: хıdmətək.|хıdmətəkə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) служащий 2) оказывающий услугу
+
+-lexeme
+ lex: хıyol
+ stem: хıyol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мечта 2) предположение
+
+-lexeme
+ lex: хıl
+ stem: хıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) омут, глубокое место 2) глубокий ( о воде)
+
+-lexeme
+ lex: хıs-хıfət
+ stem: хıs-хıfət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тоска 2) ревность
+
+-lexeme
+ lex: хonçə
+ stem: хonç.|хonçə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) медный поднос 2) поднос с угощением, накрытый красным платком ( подается при помолвке)
+
+-lexeme
+ lex: hağ
+ stem: hağ.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) голодный, не евший с утра 2) пустой ( о желудке)
+
+-lexeme
+ lex: hal
+ stem: hal.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) холм, холмик, бугорок 2) гора, скала
+
+-lexeme
+ lex: hap-hup
+ stem: hap-hup.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) угроза 2) болтовня
+
+-lexeme
+ lex: haçar
+ stem: haçar.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) ключ 2) замок
+
+-lexeme
+ lex: həvəs
+ stem: həvəs.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) желание, охота 2) настроение, хорошее настроение
+
+-lexeme
+ lex: həvəsin
+ stem: həvəsin.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) увлеченный 2) в хорошем настроении
+
+-lexeme
+ lex: həvo
+ stem: həv.|həvo.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) воздух 2) погода 3) климат
+
+-lexeme
+ lex: həvoy
+ stem: həvoy.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бесплатный 2) бесплатно, безвозмездно
+
+-lexeme
+ lex: həvolə
+ stem: həvol.|həvolə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) поручительство 2) поручитель 3) поручение 4) перен. ругань, брань
+
+-lexeme
+ lex: hədər
+ stem: hədər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бесполезный, напрасный, пустой 2) зря, бесполезно, напрасно, попусту
+
+-lexeme
+ lex: hələ
+ stem: hələ
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) еще, пока ( обычн. с последующим отриц.) 2) частица ну-ка, же
+
+-lexeme
+ lex: həloğ
+ stem: həloğ.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) сорная трава, сорняк 2) прополка
+
+-lexeme
+ lex: həlol
+ stem: həlol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) дозволенный, разрешенный ( по шариату) 2) дозволенный, правомерный
+
+-lexeme
+ lex: həmo
+ stem: həm.|həmo.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) ровный, гладкий 2) ровно, гладко
+
+-lexeme
+ lex: həni
+ stem: həni
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) уже, же 2) с последующим отриц. совсем не, больше не, уже не
+
+-lexeme
+ lex: hərəkət
+ stem: hərəkət.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) движение 2) действие, поступок 3) старание, усердие
+
+-lexeme
+ lex: həsəd
+ stem: həsəd.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) зависть 2) тоска
+
+-lexeme
+ lex: həх
+ stem: həх.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) право, правота, плата 2) правый
+
+-lexeme
+ lex: hi
+ stem: h.|hi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) пашня ( кроме рисового поля), 2) огород, бахча
+
+-lexeme
+ lex: hiyəro
+ stem: hiyər.|hiyəro.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) междурядье 2) тропинка
+
+-lexeme
+ lex: hindi
+ stem: hind.|hindi.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) хинди 2) индийский
+
+-lexeme
+ lex: hisob
+ stem: hisob.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) счет 2) математика, алгебра, арифметика
+
+-lexeme
+ lex: hınə
+ stem: hın.|hınə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) талант 2) подвиг
+
+-lexeme
+ lex: ho
+ stem: h.|ho.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) спелый, зрелый, мягкий ( о плодах) 2) перен. вялый, расслабленный, малоподвижный
+
+-lexeme
+ lex: hol
+ stem: hol.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) настроение, состояние духа 2) состояние ( положение) дел 3) момент, миг, мгновение
+
+-lexeme
+ lex: huşə
+ stem: huş.|huşə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) колос ( зерновых) 2) гроздь ( виногр
+
+-lexeme
+ lex: çangır
+ stem: çangır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) коготь 2) царапина
+
+-lexeme
+ lex: çanə
+ stem: çanə
+ gram: PRO
+ paradigm: PRO
+ trans_ru: 1) столько, так, в такой степени 2) пока
+
+-lexeme
+ lex: çəpəki
+ stem: çəpək.|çəpəki.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) изнанка 2) наизнанку, на оборотную сторону
+
+-lexeme
+ lex: çətvər
+ stem: çətvər.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) мера веса в 2) четвертак, двадцатипятикопеечная монета
+
+-lexeme
+ lex: çəхməх
+ stem: çəхməх.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) огниво 2) молния
+
+-lexeme
+ lex: çığın
+ stem: çığın
+ gram: ADV
+ paradigm: ADV
+ trans_ru: 1) отсюда 2) затем, потом
+
+-lexeme
+ lex: çok
+ stem: çok.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) хороший 2) хорошо
+
+-lexeme
+ lex: çoştə
+ stem: çoşt.|çoştə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) полдень 2) обед
+
+-lexeme
+ lex: çu
+ stem: çu.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) палка 2) древесина, дерево ( как материал)
+
+-lexeme
+ lex: car
+ stem: car.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) клич, возглас 2) перен. проклятие
+
+-lexeme
+ lex: cəm
+ stem: cəm.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) совокупность, целое 2) все, целиком
+
+-lexeme
+ lex: cərgəyn
+ stem: cərgəyn.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) стоящий в строю 2) рядовой
+
+-lexeme
+ lex: cıvon
+ stem: cıvon.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) молодой 2) красивый
+
+-lexeme
+ lex: cıvonəti
+ stem: cıvonət.|cıvonəti.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) молодость 2) красота
+
+-lexeme
+ lex: cıvoni
+ stem: cıvon.|cıvoni.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) молодость 2) красота
+
+-lexeme
+ lex: cılmə
+ stem: cılm.|cılmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) щека 2) кусок
+
+-lexeme
+ lex: cındo
+ stem: cınd.|cındo.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) сумасшедший 2) капризный, взбалмошный, сумасбродный
+
+-lexeme
+ lex: cırcırəmə
+ stem: cırcırəm.|cırcırəmə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) стрекоза 2) цикада
+
+-lexeme
+ lex: co
+ stem: c.|co.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) другой 2) отдельно
+
+-lexeme
+ lex: con
+ stem: con.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) тело 2) душа
+
+-lexeme
+ lex: curıvur
+ stem: curıvur.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) бормотание, невнятный разговор 2) сговор, заговор
+
+-lexeme
+ lex: şango
+ stem: şang.|şango.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) вечер 2) вечером
+
+-lexeme
+ lex: şangovə
+ stem: şangov.|şangovə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) вечер 2) вечером
+
+-lexeme
+ lex: şartuk
+ stem: şartuk.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рис ( растение) 2) чалтык, неочищенный рис
+
+-lexeme
+ lex: şekel
+ stem: şekel.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) росток 2) рассада ( гл. обр. рисовая)
+
+-lexeme
+ lex: şətşur
+ stem: şətşur.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) зигзаг 2) зигзагом, извилисто
+
+-lexeme
+ lex: şəхtə
+ stem: şəхt.|şəхtə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) мороз 2) лед
+
+-lexeme
+ lex: şivən
+ stem: şivən.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) оплакивание покойника 2) плач 3) скандал
+
+-lexeme
+ lex: şişə
+ stem: şiş.|şişə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) стекло 2) склянка, бутылка 3) ламповое стекло
+
+-lexeme
+ lex: şıl
+ stem: şıl.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) парализованный 2) хромой
+
+-lexeme
+ lex: şındır
+ stem: şındır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рваный ( об одежде) 2) лохмотья
+
+-lexeme
+ lex: şırı-şındır
+ stem: şırı-şındır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) рваный, драный 2) ветошь
+
+-lexeme
+ lex: şırrə
+ stem: şırr.|şırrə.
+ gram: N
+ paradigm: N_vow
+ trans_ru: 1) шорох, шелест, шуршание 2) журчание
+
+-lexeme
+ lex: şır-şır
+ stem: şır-şır.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) шорох, шуршание, шелест 2) журчание
+
+-lexeme
+ lex: şoy-şoy
+ stem: şoy-şoy.
+ gram: N
+ paradigm: N_cons
+ trans_ru: 1) радость, веселье 2) радостно, весело
+
